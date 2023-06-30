@@ -1,0 +1,43 @@
+1.*Your first task* is to create aws account and also laws. training account(which requires an amazon account).
+
+After that must watch any youtube video with the title, Why companies are moving to cloud computing(especially to AWS). To develop some understanding of cloud vs on-prem. 
+
+Anyone facing an issue with the card(please use sadapay or nayapay, or even jazzcash virtual card will work fine). AWS offers a free tier that will help you learn and practice most things for free.
+
+Aws.amazon.com and amazon.com are different. Aws. the training uses an amazon.com account for signup(don't get confused).
+
+2.Hello everyone!
+
+Your second task is to explore aws services, types of services a very high level view only for now 
+Will recommend you to watch this from 41 minute to 2:12:00 
+https://www.youtube.com/live/cI16T7GOPwM?feature=share
+
+Task 3
+Your next task is to explore: https://cloudresumechallenge.dev/
+ https://cloudresumechallenge.dev/docs/the-challenge/aws/
+ https://cloudresumechallenge.dev/blog/top-cloud-project-ideas-for-beginners/
+
+Task 4:
+Well, next you all have to Explore EC2 and IAM.
+
+For those who want to become Solutions Architect explore these from the solutions architecture track and point of you.
+For those who are asking for a cloud developer, explore from the aws developer track in aws. training 
+
+I will also suggest you watch Stephane Marek's course for aws developer associate and solutions architect associate he is the best when it comes to aws.
+
+Secondly, if you are confused about which track you should do it from then do it from the solutions architect one.
+
+Task 5:
+Complete AWS Solution Architect Associate SAA-C03 Course by Stephane Maarek
+
+Task 6:
+Create a CV website and host it on Amazon S3 as a static website.
+
+Task 7:
+Cloud Resume Challenge
+
+Task 8:
+Create a RedHat OS instance with Two attached EBS Volumes.
+
+Task 9:
+Cloud Academy Labs.
